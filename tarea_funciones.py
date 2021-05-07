@@ -28,7 +28,7 @@ while lim<=1:
              altura=int(input("Ingresa la altura del triangulo: "))
              area=(base*altura)/2
              print("El perimetro del triangulo es: "+ str(p))
-             print("El area del triangulo es: "+ str(area))
+             print("El area del triangulo es: "+ str(area)) 
       elif numero==2:
                lado=int(input("Ingresa el lado del triangulo: "))
                p=lado+lado+lado+lado
